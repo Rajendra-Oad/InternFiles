@@ -1,0 +1,63 @@
+Day2 Topics:
+	1. Web Page Creation
+		Web connects the people all over the world
+		--> internet and intranet(Task)
+		--> Links in the webpage
+		
+		www means world wide web
+		chrome,mozilla firefox(user installations)
+		microsoft edge(default) which exists in any os
+		called as web browsers
+		
+		website :www.google.com (url-Universal Resource Locaion)
+			.com,.in.co.in etc (called as domain)
+			
+		1. Head 
+			<!DOCTYPE></DOCTYPE>
+			<head>heading</head> it contains meta data of the file
+			<title>title of the page</title>
+		2. Body
+			<body>Body of the page</body> 
+			it contains number of elements such as 
+			headings
+				6 sizes of headings i.e., from H1 to H6
+				<H1>HEADING1</H1>
+				<h2>heading2</h2>
+				.....
+				<h6>heading6</h6>
+			paragraphs (text)
+				<p>Text goes here</p>
+				<br> break tag which has no end tag
+			images
+				to display the images/pictures in webpage we have
+				<img src="file"></img>
+			links(url mapping)
+				providing links to the page
+			lists
+		3. Footer section
+		
+	2. What is HTML ?
+		HTML stands for Hyper Text Markup Language used for 
+		website designing/website building
+		HTML is a case free language
+		
+		2.1 Creation of HTML file
+		- open a text file and save it with .html(extension)
+
+   Lists  :-  HTML offers web authors two ways for 
+              specifying list of information
+				 -> List contain one or more elements
+				 <li></li>
+			 
+             1.unordered list  <ul></ul>
+             2.ordered list		 <ol></ol>	
+	Table: A user can create tables in the webpage
+		Table contains rows and columns
+		<table>
+		<tr></tr>represents table rows
+		<td></td> table data means columns in the rows
+	
+		</table>
+			 
+		 
+		

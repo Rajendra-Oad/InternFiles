@@ -1,0 +1,33 @@
+Day3 Content
+Java Script 
+It is a web programming language
+Java Script lang is used for data validations in the web page
+input,output
+input=id
+output has many options
+1.innerHTML
+	innerHTML defines the content of HTML element
+2.document.write() # document
+3.window.alert()
+4.console.log()
+
+keywords
+	A keyword is a reserved word which has special meaning and purpose
+1.var  --> variable
+2.let --> keyword used from 1995 to 2015()
+3.const  -> constant means data is fixed
+4.if  -> conditional
+5.switch --> conditional 
+6.for -->looping
+7.function --> block of code
+8.return --> final statement in the function
+9.try -> used in exception handling/error handling
+
+
+# login page consists of login form
+#  signup (creating the data) navigation
+/signin(data validation) invalid inputs
+# front end (user operations, by using html,css,js)
+# validation at backend(my SQL)
+
+

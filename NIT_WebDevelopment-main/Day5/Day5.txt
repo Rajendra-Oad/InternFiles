@@ -1,0 +1,41 @@
+The software's we need
+python
+Django(module)
+sublime (editor)
+dbsqlite3(database)
+=====================
+1. Creation of a project in the webserver
+open cmd 
+Django(framework)
+	it provides all the inbuilt 
+	modules /package to work with web
+MVT architecture
+	Model : database
+	View  : controller of the project
+	Template :abstract or 
+			our project(html files)
+
+
+1. python 3.9
+>cmd
+	>pip install django
+	>pip install django==3.2
+project can be run in local server/host
+	
+>it provides admin by default
+	>django-admin startproject "projectname"
+	>django-admin startapp "appname"
+
+>to run a project in the web
+>include url in urls.py(creating an url to a page)
+	>localhost/pagename,
+	>views.py (shows the o/p on the web)
+Step wise procedure
+	1. url (url of project)
+	2. views (.py) file
+	3. runserver(cmd)
+
+2. getting HttpResponse with n parameters
+	url('s/<str:nm>/<int:y>/<str:dept>/',views.details)
+
+

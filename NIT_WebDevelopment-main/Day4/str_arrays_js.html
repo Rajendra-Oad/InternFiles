@@ -1,0 +1,26 @@
+<html>
+<head>
+	<title>js arrays</title>
+</head>
+<body>
+<p id="ar">Working with js arrays</p>
+<script>
+const sub=['python','java','WT','CC','ML' ; //array1
+const sr=[];
+sr[0]='first';
+sr[1]='second';
+sr[2]='third';
+const ar2=new Array('hi','hello','welcome','to','javascript');
+document.getElementById("ar").innerHTML=ar2;
+document.write(ar2[2]);
+sub.push("AIML");
+document.write(sub+"<br>");
+sub.shift();//instead we have delete()
+document.write(sub);
+sub.concat(sr+"<br>");
+document.write(sub+"<br>");
+sub.copyWithin(2,0);
+document.write(sub);
+</script>
+</body>
+</html>

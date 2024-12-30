@@ -1,0 +1,69 @@
+DataTypes in JAVASCRIPT
+Data type declares the type of the data stored in var/let/const
+JS offers 8 datatypes
+2 types
+	1. Primitive and
+		- built in datatypes and represents the single value so
+		that are not mutable(immutable)
+			Number,String,Undefined,Boolean,Null,BigInt,Symbol,
+		
+	2. Non-primitive
+		also known as reference types are objects and derived datatypes
+		they can store multiple values or entities
+			Objects,Arrays
+			
+	3. Conditionals
+		if,else,else if 
+		switch
+		
+	4. Loops (5 types)
+		for - loops through a block of code a number of times
+		for/in - loops through the properties of an object
+		for/of - loops through the values of an iterable object 
+			- works based on the browser support
+		while - loops through a block of code while a specified condition is true
+		do/while - also loops through a block of code while a specified condition is true
+		
+		
+	5. Strings
+		Anything that enclosed in the quotation considered as as string
+		it is a datatype and immutable in nature
+		String methods
+		str.concat()
+		str.substr()
+		str.slice()
+		str.sub()
+		str.replace()
+		str.charAt()
+		str.replaceAll()
+		str.repeat()
+		str.toUpperCase()
+		str.toLowerCase()
+		str.split()
+		
+		
+	6. Operators
+		- a thing which performs any operation on operands(variable)
+		- EX:a+b; + is the op'r performs summation op'n on a and b
+			+,-,*,/,//,^,% = arithmetic op'rs
+			boolean ,
+			comparisional/relational
+				- <,<=,>,>= (can able to operate statements
+			bitwise 
+				- performing the op'n on each bit of the digit
+					-,||(pipe),&&,<<,>> ,++,--,
+			assignment op'rs
+				- assigning the value
+				let x=10;
+				x=x+1; +=,-=
+				
+	7 Objects in JAVASCRIPT
+		Any thing that has some property and physical existance
+		- Ex:chair
+		Class is the blueprint of the object
+			attributes:features/properties of the object
+			methods:functionality:the purpose
+		
+		
+		
+			
